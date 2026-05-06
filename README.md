@@ -1,3 +1,5 @@
-##Screenshots
+<img src="screenshots/screenshot.png"
+width="500"/>
 
-![index.html](screenshots/screenshot.png)
+
+
