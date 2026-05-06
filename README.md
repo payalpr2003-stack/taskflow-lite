@@ -1,3 +1,3 @@
 ##Screenshots
 
-![Website](screenshots/screenshot.png)
+![index.html](screenshots/screenshot.png)
